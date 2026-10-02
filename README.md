@@ -1,9 +1,18 @@
+<br><br>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=%D8%A8%D9%90%D8%B3%D9%92%D9%85%D9%90+%D8%A7%D9%84%D9%84%D9%91%D9%8E%D9%87%D9%90+%D8%A7%D9%84%D8%B1%D9%91%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D9%86%D9%90+%D8%A7%D9%84%D8%B1%D9%91%D9%8E%D8%AD%D9%90%D9%8A%D9%85%D9%90;%D8%B1%D9%8E%D8%A8%D9%91%D9%90+%D8%A7%D8%B4%D9%92%D8%B1%D9%8E%D8%AD%D9%92+%D9%84%D9%90%D9%8A+%D8%B5%D9%8E%D8%AF%D9%92%D8%B1%D9%90%D9%8A+%D9%88%D9%8E%D9%8A%D9%8E%D8%B3%D9%91%D9%90%D8%B1%D9%92+%D9%84%D9%90%D9%8A+%D8%A3%D9%8E%D9%85%D9%92%D8%B1%D9%90%D9%8A;%D8%B1%D9%8E%D8%A8%D9%91%D9%90+%D8%B2%D9%90%D8%AF%D9%92%D9%86%D9%90%D9%8A+%D8%B9%D9%90%D9%84%D9%92%D9%85%D9%8B%D8%A7;%D9%88%D9%8E%D9%85%D9%8E%D8%A7+%D8%AA%D9%8E%D9%88%D9%92%D9%81%D9%90%D9%8A%D9%82%D9%90%D9%8A+%D8%A5%D9%90%D9%84%D9%91%D9%8E%D8%A7+%D8%A8%D9%90%D8%A7%D9%84%D9%84%D9%91%D9%8E%D9%87%D9%90" alt="Islamic Opening Duas">
+
+</div>
+
+<br><br>
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/medo-99/medo-99/main/profile-banner.png" width="100%" alt="Moayied Falah Cyber Banner">
 
 <br><br>
+
+
 
 
 
